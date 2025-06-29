@@ -1,0 +1,13 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "FMP Financial Data MCP",
+  "name_for_model": "fmp_mcp",
+  "description_for_model": "Access financial data from FMP: income statements, ratios, enterprise value, etc.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "/openapi.json"
+  },
+  "contact_email": "vipbat@gmail.com",
+  "legal_info_url": "https://financialmodelingprep.com/developer/docs/terms-of-service"
+}
