@@ -11,6 +11,7 @@ An MCP (Model Context Protocol) server that provides Financial Modeling Prep API
 - 🔍 **Company Search** - Search for companies by name to find ticker symbols
 - 📑 **M&A Analysis** - Perform comparable company analysis and sector valuations
 
+**##Demo video link ** https://www.youtube.com/watch?v=XhygZz1kW_E 
 ## Prerequisites
 
 - Python 3.8 or higher
